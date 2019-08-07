@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<title> Sarel River </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" type="text/css" href="https://aditidam.github.io/LearnProgramming/button.css">
+<link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Volkhov&display=swap" rel="stylesheet">
+  
+<style>
+  
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background-color:#33334d; 
+}
+/* Style the header */
+.header {
+  padding: 10px;
+  text-align: center;
+  background: black;
+  color: #0000ff;
+  
+}
+.header h1 {
+  font-size: 70px;
+  font-family: 'Kaushan Script', cursive;
+}
+.p1 {
+margin: 60px;
+font-size: 18px; 
+font-family: 'Volkhov', serif;
+color: white;
+line-height: 25pt;
+} 
+.p2 {
+margin: 20px; 
+font-size: 20px; 
+font-family: 'Volkhov', serif;
+color: #cc66ff;
+} 
+.h2 {
+font-size: 35px; 
+margin: 60px;
+font-family: 'Volkhov', serif;
+color: white; 
+}
+ 
+</style>
+
+<body>
+
+<div class="header">
+   <h1> Sarel River </h1>
+</div>
+
+
+<div>
+<a href="https://aditidam.github.io/SarelRiver/Home.html" class="button">HOME</a>
+<a href="https://aditidam.github.io/SarelRiver/Bio.html" class="button">BIO</a>
+<a href="https://aditidam.github.io/SarelRiver/Albums.html" class="button">ALBUMS</a>
+<a href="https://aditidam.github.io/SarelRiver/Reviews.html" class="button">REVIEWS</a>
+<a href="https://aditidam.github.io/SarelRiver/Contact.html" class="button">CONTACT</a>
+ </div>
+
+<div class = "h2">
+<h2> <center> Two In One </center> </h2> 
+</div>
+
+
+  <div style="position:relative; top: 0px; left: 0px;">
+  <iframe width="250" height="250" style="margin:50px 50px" src="https://www.youtube.com/embed/iO9DtDCd1RE">
+</iframe>
+
+ </div>
+    
+    
+  <div style="position:relative; top: -310px; left: 350px;" >
+  <iframe width="250" height="250" src="https://www.youtube.com/embed/ppi3kYVs9xs">
+</iframe>
+ </div>
+
+ <div style="position:relative; top: -568px; left: 650px;" >
+  <iframe width="250" height="250" src="https://www.youtube.com/embed/TRn4pFNR4iY">
+</iframe>
+  
+  </div>
+    
+ 
+ <div style="position:relative; top: -825px; left: 950px;">
+  <iframe width="250" height="250" src="https://www.youtube.com/embed/2furwxXnpQI">
+</iframe>
+  
+  </div>
+ 
+ 
+ 
+ <div style="position:relative; top: -775px; left: 50px;">
+  <iframe width="250" height="250"  src="https://www.youtube.com/embed/zkq0WLScFJE" >
+</iframe>
+
+ </div>
+    
+    
+  <div style="position:relative; top: -1035px; left: 350px;" >
+  <iframe width="250" height="250" src="https://www.youtube.com/embed/dNFWxgVMm94">
+</iframe>
+ </div>
+
+ <div style="position:relative; top: -1290px; left: 650px;" >
+  <iframe width="250" height="250"  src="https://www.youtube.com/embed/6o45oaSBKwI">
+</iframe>
+  
+  </div>
+    
+ 
+ <div style="position:relative; top: -1545px; left: 950px;">
+  <iframe width="250" height="250" src="https://www.youtube.com/embed/LUeAiM1guhE">
+</iframe>
+  
+  </div>
+ 
+
+</body>
+</html>
